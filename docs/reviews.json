@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-03T17:42:33Z",
+ "updated": "2026-11-03T17:47:53Z",
  "rating": 4.9,
  "count": 410,
  "reviews": [
   {
    "author": "Mayron Lahmany",
    "rating": 5,
-   "text": "שירות אדיב, מקצועי וזריז\n\n(Translated by Google)\nCourteous, professional and prompt service",
+   "text": "שירות אדיב, מקצועי וזריז",
    "date": "2026-11-01"
   },
   {
    "author": "vitali petra",
    "rating": 5,
-   "text": "Спасибо за ремонт планшета\n\n(Translated by Google)\nThank you for repairing the tablet",
+   "text": "Спасибо за ремонт планшета",
    "date": "2026-10-29"
   },
   {
@@ -24,7 +24,7 @@
   {
    "author": "dror Gal amzaleg",
    "rating": 5,
-   "text": "תודה רבה על השרות המסור היחס והמקצועיות\n\n(Translated by Google)\nThank you very much for the dedicated, courteous and professional service.",
+   "text": "תודה רבה על השרות המסור היחס והמקצועיות",
    "date": "2026-10-16"
   },
   {
@@ -48,43 +48,43 @@
   {
    "author": "יובל",
    "rating": 5,
-   "text": "תודה רבה על היחס האישי והמקצועיות, אני מאוד מרוצה מהלפטופ ונהנית מהצ'ופר של האוזניות\nשנה טובה ומבורכת\n\n(Translated by Google)\nThank you very much for the personal and professional attitude, I am very pleased with the laptop and enjoy the headphones' sound. Happy New Year",
+   "text": "תודה רבה על היחס האישי והמקצועיות, אני מאוד מרוצה מהלפטופ ונהנית מהצ'ופר של האוזניות\nשנה טובה ומבורכת",
    "date": "2026-09-09"
   },
   {
    "author": "Gleb Anufriev",
    "rating": 5,
-   "text": "נשרף לי כבל מתח למטען של המחשב נייד ובאתי מוכן גם לקנות אחד חדש אבל בסוף הוא מכר לי רק את הכבל עצמו ועוד אחד שמותאם לישראל במקום האמריקאי שהצריך מתאם אז אין לי בעיה שהוא נשרף :)\n\n(Translated by Google)\nMy laptop charger's power cord burned out and I came prepared to buy a new one, but in the end he only sold me the cable itself and another one that was adapted for Israel instead of the American one that required an adapter, so I don't have a problem with it burning out :)",
+   "text": "נשרף לי כבל מתח למטען של המחשב נייד ובאתי מוכן גם לקנות אחד חדש אבל בסוף הוא מכר לי רק את הכבל עצמו ועוד אחד שמותאם לישראל במקום האמריקאי שהצריך מתאם אז אין לי בעיה שהוא נשרף :)",
    "date": "2026-08-23"
   },
   {
    "author": "SivanMillie",
    "rating": 5,
-   "text": "שירות נעים ויעיל, ממליצה!\n\n(Translated by Google)\nPleasant and efficient service, highly recommended!",
+   "text": "שירות נעים ויעיל, ממליצה!",
    "date": "2026-08-09"
   },
   {
    "author": "אילן",
    "rating": 5,
-   "text": "שירות מעולה , איכותי ומסביר פנים .\n\n(Translated by Google)\nExcellent, high-quality and welcoming service.",
+   "text": "שירות מעולה , איכותי ומסביר פנים .",
    "date": "2026-07-26"
   },
   {
    "author": "Uri Fisher",
    "rating": 5,
-   "text": "הם ניקו את החלקים של המחשב שלי והעבירו אותם למארז חדש תוך שעה שזה מהר מאוד. מאוד מציע ללכת לשם!\n\n(Translated by Google)\nThey cleaned my computer parts and moved them to a new case within an hour which is very fast. Highly recommend going there!",
+   "text": "הם ניקו את החלקים של המחשב שלי והעבירו אותם למארז חדש תוך שעה שזה מהר מאוד. מאוד מציע ללכת לשם!",
    "date": "2026-07-15"
   },
   {
    "author": "Yelena Beskrovni",
    "rating": 5,
-   "text": "Спасибо большое за терпение и помощь\n\n(Translated by Google)\nThank you very much for your patience and help.",
+   "text": "Спасибо большое за терпение и помощь",
    "date": "2026-07-14"
   },
   {
    "author": "David Bas",
    "rating": 5,
-   "text": "מבחר מוצרים מאוד גדול ושירות מקצועי ביותר! תודה רבה!\nבפעמים הבאות אפנה רק ללידר מחשבים.\n\n(Translated by Google)\nVery large selection of products and very professional service! Thank you very much!\nNext time I will only contact Leader Computers.",
+   "text": "מבחר מוצרים מאוד גדול ושירות מקצועי ביותר! תודה רבה!\nבפעמים הבאות אפנה רק ללידר מחשבים.",
    "date": "2026-07-05"
   },
   {
@@ -96,37 +96,25 @@
   {
    "author": "Yosef",
    "rating": 5,
-   "text": "כמו שאר החנויות בבלוק, מרגיש צפוף וקטן אבל המבחר ענק וגם קיבלתי שירות אישי וטוב\n\n(Translated by Google)\nLike the other stores on the block, it feels crowded and small, but the selection is huge and I also received good, personal service.",
+   "text": "כמו שאר החנויות בבלוק, מרגיש צפוף וקטן אבל המבחר ענק וגם קיבלתי שירות אישי וטוב",
    "date": "2026-06-14"
-  },
-  {
-   "author": "הדר סקלסקי",
-   "rating": 5,
-   "text": "חוויה מעולה!\n\n(Translated by Google)\nExcellent experience!",
-   "date": "2026-05-31"
-  },
-  {
-   "author": "Leah Hartman",
-   "rating": 5,
-   "text": "מקצועי ולענין.\n\n(Translated by Google)\nProfessional and to the point.",
-   "date": "2026-05-11"
   },
   {
    "author": "החצר של יודה סדנאות",
    "rating": 5,
-   "text": "שירות ומחירים מעולים\nתודה!\n\n(Translated by Google)\nGreat service and prices\nThank you!",
+   "text": "שירות ומחירים מעולים\nתודה!",
    "date": "2026-04-28"
   },
   {
    "author": "Orion Gleizer",
    "rating": 5,
-   "text": "הגעתי לפאבל בגלל בעיית שמע בלפטופ. תוך כמה דקות הוא סידר את הבעיה. והכי יפה הוא ששאלתי אותו כמה אני חייב לו, הוא חייך ואמר:\"כלום\nבוודאות שאני חוזר אליו, ואמליץ לכל מי שאני מכיר\n\n(Translated by Google)\nI came to Pavel because of a sound problem on my laptop. He fixed the problem within a few minutes. And the best thing is that I asked him how much I owed him, he smiled and said: \"Nothing\nI will definitely come back to him, and I will recommend him to everyone I know",
+   "text": "הגעתי לפאבל בגלל בעיית שמע בלפטופ. תוך כמה דקות הוא סידר את הבעיה. והכי יפה הוא ששאלתי אותו כמה אני חייב לו, הוא חייך ואמר:\"כלום\nבוודאות שאני חוזר אליו, ואמליץ לכל מי שאני מכיר",
    "date": "2026-04-19"
   },
   {
    "author": "אסף חיון",
    "rating": 5,
-   "text": "שירות מעולה. פבל אחלה בנאדם, שירותי מאוד, אמין ומקצועי.\n\n(Translated by Google)\nExcellent service. Pavel is a great person, very helpful, reliable and professional.",
+   "text": "שירות מעולה. פבל אחלה בנאדם, שירותי מאוד, אמין ומקצועי.",
    "date": "2026-04-14"
   },
   {
@@ -138,7 +126,7 @@
   {
    "author": "אלחנן",
    "rating": 5,
-   "text": "שירות מעולה, בעל העסק מקצוען אמיתי, וגם המחיר היה זול משמעותית מהמתחרים. אשמח לחזור שוב\n\n(Translated by Google)\nExcellent service, the owner of the business is a true professional, and the price was also significantly cheaper than the competitors. I would be happy to come back again",
+   "text": "שירות מעולה, בעל העסק מקצוען אמיתי, וגם המחיר היה זול משמעותית מהמתחרים. אשמח לחזור שוב",
    "date": "2026-04-08"
   },
   {
@@ -150,38 +138,50 @@
   {
    "author": "Ester K",
    "rating": 5,
-   "text": "תיקון מהיר, שירות אדיב, מחיר הוגן. הלוואי שהיה אפשר לתת כאן יותר כוכבים:)\n\n(Translated by Google)\nQuick repair, courteous service, fair price. I wish I could give more stars here :)",
+   "text": "תיקון מהיר, שירות אדיב, מחיר הוגן. הלוואי שהיה אפשר לתת כאן יותר כוכבים:)",
    "date": "2026-03-25"
   },
   {
    "author": "אהרון לוי",
    "rating": 5,
-   "text": "שירות מקצועי ואדיב\nמבחר גדול\n\n(Translated by Google)\nProfessional and courteous service\nLarge selection",
+   "text": "שירות מקצועי ואדיב\nמבחר גדול",
    "date": "2026-03-23"
   },
   {
    "author": "Boris Vitlin",
    "rating": 5,
-   "text": "Спасибо за отличный ремонт и прекрасное обслуживание.\n\n(Translated by Google)\nThank you for the excellent repair and excellent service.",
+   "text": "Спасибо за отличный ремонт и прекрасное обслуживание.",
    "date": "2026-03-16"
-  },
-  {
-   "author": "Tami Sh",
-   "rating": 5,
-   "text": "Спасибо\n\n(Translated by Google)\nThank you",
-   "date": "2026-03-13"
-  },
-  {
-   "author": "Arkadi Cherny",
-   "rating": 5,
-   "text": "Спасибо.\n\n(Translated by Google)\nThank you.",
-   "date": "2026-02-19"
   },
   {
    "author": "urih gutt",
    "rating": 5,
-   "text": "שרות טוב המחירים סבירים\n\n(Translated by Google)\nGood service, reasonable prices",
+   "text": "שרות טוב המחירים סבירים",
    "date": "2026-02-15"
+  },
+  {
+   "author": "LES GLASSMAN",
+   "rating": 5,
+   "text": "The best computer and cell shop in Israel. I highly recommend",
+   "date": "2026-02-12"
+  },
+  {
+   "author": "רונן סימן טוב",
+   "rating": 5,
+   "text": "פבל מלידר מחשבים איש מקצוע מעולה ישר והגון ממולץ בחום",
+   "date": "2026-02-08"
+  },
+  {
+   "author": "Gary Webster",
+   "rating": 5,
+   "text": "Quick turn around. Very competent.",
+   "date": "2026-02-03"
+  },
+  {
+   "author": "Alan Fischbein",
+   "rating": 5,
+   "text": "Amazing service and very friendly!",
+   "date": "2026-01-29"
   }
  ]
 }
