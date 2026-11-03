@@ -86,10 +86,12 @@ def fetch_pages(token, location):
 def original_text(comment):
     """Google adds its own translation to some reviews: keep only what the customer wrote."""
     text = comment or ""
+    # Two layouts: "(Translated by Google) …translation… (Original) …text…"
+    # and "…text… (Translated by Google) …translation…".
     if "(Original)" in text:
         text = text.split("(Original)", 1)[1]
-    elif text.startswith("(Translated by Google)"):
-        text = text[len("(Translated by Google)"):]
+    elif "(Translated by Google)" in text:
+        text = text.split("(Translated by Google)", 1)[0]
     return text.strip()
 
 
